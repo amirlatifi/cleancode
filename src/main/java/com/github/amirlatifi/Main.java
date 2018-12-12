@@ -1,4 +1,4 @@
-com.github.amirlatifi
+package com.github.amirlatifi;
 
 public class Main {
 
